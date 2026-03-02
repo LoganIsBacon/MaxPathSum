@@ -1,0 +1,15 @@
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\bin\Debug\net10.0\MaxPathSum.exe
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\bin\Debug\net10.0\MaxPathSum.deps.json
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\bin\Debug\net10.0\MaxPathSum.runtimeconfig.json
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\bin\Debug\net10.0\MaxPathSum.dll
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\bin\Debug\net10.0\MaxPathSum.pdb
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.AssemblyInfoInputs.cache
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.AssemblyInfo.cs
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.sourcelink.json
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.dll
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\refint\MaxPathSum.dll
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.pdb
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\MaxPathSum.genruntimeconfig.cache
+C:\Users\Logan\Desktop\SJRollinsTask\MaxPathSum\obj\Debug\net10.0\ref\MaxPathSum.dll
